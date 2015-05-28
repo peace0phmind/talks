@@ -19,3 +19,14 @@ peace0phmind@gmail.com
 
 source: [[https://github.com/robbyrussell/oh-my-zsh]]
 
+* homebrew
+
+Homebrew installs packages to their own directory and then symlinks their files into /usr/local.
+
+install
+
+	ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+[[https://github.com/Homebrew/homebrew][https://github.com/Homebrew/homebrew]]
+
+* 
